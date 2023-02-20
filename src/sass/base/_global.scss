@@ -56,3 +56,13 @@ button {
     padding: 0 15px;
     margin: 0 auto;
 }
+
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

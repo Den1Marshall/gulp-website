@@ -1,4 +1,4 @@
-export default function() {
+export const isWebp = () => {
     function testWebP(callback) {
 
         const webP = new Image();
